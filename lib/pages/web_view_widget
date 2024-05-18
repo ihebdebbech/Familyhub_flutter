@@ -1,0 +1,19 @@
+import
+import 'package:flutter/material.dart';
+import
+'package:webview_flutter/webview_flutter.dart';
+class WebView extends Statefulwidget {
+const WebView({Key? key}) : super(key: key);
+@override
+WebViewstate createstate() = WebViewstate();
+class
+webviewstate extends State<Webview> {
+final cotroller = WebViewController()
+.. setJavaScriptMode(JavaScriptMode.unrestricted)
+..loadRequest (Uri.parse ("https://youtube.com"));
+@override
+Widget build (BuildContext context) {
+return SafeArea (
+child: WebViewwidget(
+controller: cotroller,
+)); // WebViewwidget // SafeArea
