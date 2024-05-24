@@ -1,16 +1,7 @@
-# flutter_application_1
+# Family_Hub8Flutter
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+a cross platform application for kids and their to enhance their experience together while also assuring security for kids both on and off the digital , in this project i integrated : multiple 2d games , AI Recommended reels , Hedera hashgraph , IOT with a smart bracelet , online payment , chatgpt API , real time chat
